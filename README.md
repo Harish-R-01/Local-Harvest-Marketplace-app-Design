@@ -1,2 +1,1 @@
-# Local-Harvest-Marketplace-app-Design
-Local Harvest Marketplace app Design Connecting local farmers and consumers
+Local Harvest – Designed a marketplace app that connects local farmers with consumers, emphasizing accessibility, intuitive layout, and seamless user experience. Here is the Figma link - https://www.figma.com/design/80cEz1062e2CrepRQW1x2W/local-harvest?t=ESj88NkL4T34bzlx-1
